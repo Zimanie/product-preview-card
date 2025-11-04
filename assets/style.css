@@ -133,7 +133,8 @@ p {
     }
 
     .product-image {
-        src: url(/assets/images/image-product-desktop.jpg);
+        src: url(assets/images/image-product-desktop.jpg);
         height: 100%;
     }
+
 }
