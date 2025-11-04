@@ -26,7 +26,7 @@
 }
 
 body {
-    font-size: clamp(0.6rem, 2vw + 0.88rem, 1rem);;
+    font-size: clamp(0.6rem, 2vw + 0.88rem, 1rem);
     max-width: 23.75rem;
     font-family: Montserrat, Fraunces, sans-serif;
     background-color: var(--neutralcream);
@@ -144,4 +144,5 @@ p {
         transition: none;
     }
 }
+
 
