@@ -37,7 +37,7 @@ Screenshots showing the mobile, desktop, and active/product states are included 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Zimanie/product-preview-card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -67,4 +67,5 @@ Ideas for future improvements and areas to practice (accessibility, animations, 
 
 - Frontend Mentor - [@Zimanie](https://www.frontendmentor.io/profile/Zimanie)
 - Twitter - [@Zimanie5](https://www.twitter.com/Zimanie5)
+
 
